@@ -30,7 +30,8 @@ def printer(array)
   def assign_rooms(array).each do |tag|
     puts tag
   end
-  
+end
+
     
   
   
