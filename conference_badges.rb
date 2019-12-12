@@ -27,7 +27,8 @@ def printer(array)
     puts tag
   end
   
-  
+  def assign_rooms(array)
+    
   
   
   
