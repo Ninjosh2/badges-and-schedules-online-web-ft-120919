@@ -27,7 +27,10 @@ def printer(array)
     puts tag
   end
   
-  def assign_rooms(array)
+  def assign_rooms(array).each do |tag|
+    puts tag
+  end
+  
     
   
   
