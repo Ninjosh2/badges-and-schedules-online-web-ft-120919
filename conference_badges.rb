@@ -22,6 +22,3 @@ def assign_rooms(array)
   return new_array
 end
 
-def assign_rooms(array)
-  new_array = []
-  cou
